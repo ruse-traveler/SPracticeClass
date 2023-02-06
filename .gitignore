@@ -1,0 +1,3 @@
+src/*
+!src/SPracticeClass.h
+!src/SPracticeClass.cc

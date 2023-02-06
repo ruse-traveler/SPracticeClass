@@ -9,13 +9,13 @@
 #define RUNPRACTICECLASS_C
 
 // user include
-#include <spracticeclass/SPracticeClass.h>
+#include "/sphenix/u/danderson/install/include/spracticeclass/SPracticeClass.h"
 
 // root includes
 #include <TString.h>
 
 // load libraries
-R__LOAD_LIBRARY(libspracticeclass.so)
+R__LOAD_LIBRARY(/sphenix/u/danderson/install/lib/libspracticeclass.so)
 
 
 
