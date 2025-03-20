@@ -1,2 +1,2 @@
-A simple class to test compiling in sPHENIX world, and
-a macro to run the class.
+A simple Fun4All module to test compiling in sPHENIX world, and
+a macro to run it.
